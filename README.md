@@ -84,5 +84,24 @@ As a Telecommunication Engineering student, I utilize this repository to documen
 | Day 04 | [Basic Device Security](./Day-04-Ethernet-Switching) | ✅ Complete |
 | Day 05/06 | [Ethernet & LANSwitching](./Day-04-Ethernet-Switching) | ✅ Complete |
 | Day 07/08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
+| Day 08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
+| Day 07/08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
+| Day 07/08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
+| Day 07/08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
 
 
+## Current Certifications
+
+* CCNA
+* Google Cybersecurity
+* Network Security
+  
+## Professional Goal
+
+My objective is to transition into a Network Engineering role by combining certification knowledge with practical, documented experience. This repository serves as a public record of that journey and demonstrates my commitment to continuous learning, problem solving, and enterprise networking fundamentals.
+
+## Connect With Me
+
+LinkedIn: www.linkedin.com/in/muzammil0904
+
+GitHub: github.com/Muzammil-NetworkEngineer
