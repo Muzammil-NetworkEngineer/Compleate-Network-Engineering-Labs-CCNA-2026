@@ -20,54 +20,69 @@ As a Telecommunication Engineering student, I utilize this repository to documen
 
 ## Technologies & Concepts Covered
 
-# Network Fundamentals
+### Network Fundamentals
+
 * Routers
 * Switches
-Firewalls
-Servers
-Endpoints
-IPv4 & IPv6
-eNetwork Topologies
-Wireless Fundamentals
+* Firewalls
+* Servers
+* Endpoints
+* IPv4 & IPv6
+* Network Topologies
+* Wireless Fundamentals
 
-# Network Access
+### Network Access
 
-VLANs
-Trunking
-EtherChannel
-Spanning Tree Protocol (STP)
-Wireless LANs
+* VLANs
+* Trunking
+* EtherChannel
+* Spanning Tree Protocol (STP)
+* Wireless LANs
 
-# IP Connectivity
+### IP Connectivity
 
-Static Routing
-OSPF
-Route Selection
-Administrative Distance
-Routing Tables
+* Static Routing
+* OSPF
+* Route Selection
+* Administrative Distance
+* Routing Tables
 
-# IP Services
+### IP Services
 
-DHCP
-DNS
-NAT
-SSH
-NTP
-Syslog
+* DHCP
+* DNS
+* NAT
+* SSH
+* NTP
+* Syslog
 
-# Security Fundamentals
+### Security Fundamentals
 
-ACLs
-Port Security
-DHCP Snooping
-VPN Fundamentals
-AAA
-Wireless Security
+* ACLs
+* Port Security
+* DHCP Snooping
+* VPN Fundamentals
+* AAA
+* Wireless Security
 
-# Automation & Programmability
+### Automation & Programmability
 
-REST APIs
-JSON
-Cisco DNA Center Concepts
-Network Automation Fundamentals
+* REST APIs
+* JSON
+* Cisco DNA Center Concepts
+* Network Automation Fundamentals
+
+## Lab Progress
+
+## Lab Progress
+
+| Day | Topic | Status |
+| :--- | :--- | :--- |
+| Day 01 | [Network Devices & Enterprise Topology](./Day-01-Network-Devices) | ✅ Complete |
+| Day 02 | [Connecting Network Devices](./Day-02-OSI-Model) | ✅ Complete |
+| Day 03 | [OSI Model DHCP & PacketAnalysis](./Day-03-TCP-IP) | ✅ Complete |
+| Day 04 | [Basic Device Security](./Day-04-Ethernet-Switching) | ✅ Complete |
+| Day 05/06 | [Ethernet & LANSwitching](./Day-04-Ethernet-Switching) | ✅ Complete |
+| Day 07/08 | [IPv4 Addresses](./Day-05-IPv4-Addressing) | ✅ Complete |
+
 
